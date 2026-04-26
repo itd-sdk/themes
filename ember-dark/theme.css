@@ -1,0 +1,58 @@
+* {
+  font-family: Jost;
+  --text-primary: #fbeadb;
+  --bg-primary: #1E1C1A;
+  --bg-secondary: #3E3B37;
+  --block-bg: #2C2A27;
+  --block-bg-secondary: #302e2b/*#3E3B37*/;
+  --block-hover-bg: #423e38;
+  --glass-bg: #2C2A27;
+  --padding: 5px;
+  --text-secondary: #85827e;
+  --link-color: #FF9A3E;
+  --accent-like: #E05340;
+  --accent-color: #FF9A3E;
+  --accent-primary: #FF9A3E;
+  --accent-primary-alpha: #423e38;
+  --accent-secondary: #E07B53;
+  --accent-hover: #EBDDCB;
+  --accent-repost: #88B369;
+  --radius-sm: 2px;
+  --radius-md: 4px;
+  --spacing-xs: 2px;
+  --spacing-sm: 4px;
+  --spacing-md: 8px;
+  --spacing-lg: 16px;
+  --spacing-2xl: 32px;
+  --sidebar-width: 180px;
+  --sidebar-gap: 10px;
+  --poll-selected-progress-color: #FF9A3E;
+  --poll-progress-color: #85827e1a;
+  /*--border-color: transparent;*/
+}
+
+.JxkE {
+  color: #000;
+}
+.K4Xg {
+  display: none;
+}
+.x6JP {
+  background: none;
+}
+.Lmwj, .eIIc, .WUfa {
+  background: var(--bg-primary);
+}
+.nu2g.xpaR {
+  background: #84bbf6;
+}
+
+strong, b, .gf8Y {
+  font-family: Inter;
+}
+.vM0x.sYBU {
+  background: var(--block-bg-secondary);
+}
+.vM0x:hover {
+  background: var(--block-hover-bg);
+}
