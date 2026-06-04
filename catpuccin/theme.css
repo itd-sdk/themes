@@ -1,0 +1,34 @@
+* {
+  font-family: Jost;
+  --text-primary: #cdd6f4;
+  --bg-primary: #1e1e2e;
+  --bg-secondary: #313244;
+  --block-bg: #181825;
+  --block-bg-secondary: #313244;
+  --block-hover-bg: #313244;
+  --glass-bg: #45475a;
+  --padding: 5px;
+  --text-secondary: #a6adc8;
+  --link-color: #cba6f7;
+  --accent-like: #f38ba8;
+  --accent-color: #cba6f7;
+  --accent-primary: #cba6f7;
+  --accent-primary-alpha: #f9e2af;
+  --accent-secondary: #fab387;
+  --accent-hover: #f2cdcd;
+  --accent-repost: #a6e3a1;
+  --radius-sm: 2px;
+  --radius-md: 4px;
+  --spacing-xs: 2px;
+  --spacing-sm: 4px;
+  --spacing-md: 8px;
+  --spacing-lg: 16px;
+  --spacing-2xl: 32px;
+  --sidebar-width: 180px;
+  --sidebar-gap: 10px;
+  --poll-selected-progress-color: #f5c2e7;
+  --poll-progress-color: #85827e1a;
+}
+strong, b, h1, h2, h3, h4, h5 {
+  font-family: Inter;
+}
