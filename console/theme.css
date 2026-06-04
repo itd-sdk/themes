@@ -1,0 +1,32 @@
+
+* {
+  font-family: Iosevka Nerd Font;
+  --text-primary: #fff;
+  --bg-primary: #000;
+  --bg-secondary: #000;
+  --block-bg: #000;
+  --block-bg-secondary: #000;
+  --block-hover-bg: #000;
+  --glass-bg: #000;
+  --padding: 5px;
+  --text-secondary: #777;
+  --link-color: #00ff00;
+  --accent-like: #ff0000;
+  --accent-color: #00ff00;
+  --accent-primary: #00ee00;
+  --accent-primary-alpha: #006e1e;
+  --accent-secondary: #003e3e;
+  --accent-hover: #000;
+  --accent-repost: #00ff00;
+  --radius-sm: 2px;
+  --radius-md: 4px;
+  --spacing-xs: 2px;
+  --spacing-sm: 4px;
+  --spacing-md: 8px;
+  --spacing-lg: 16px;
+  --spacing-2xl: 32px;
+  --sidebar-width: 180px;
+  --sidebar-gap: 10px;
+  --poll-selected-progress-color: #00ff00;
+  --poll-progress-color: #00ff001a;
+}
