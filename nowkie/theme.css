@@ -1,0 +1,49 @@
+* {
+  font-family: Jost;
+  --text-primary: #FADDDD;
+  --bg-primary: #6c2f2fee;
+  --bg-secondary: #8c3e3eee;
+  --block-bg: #322525aa;
+  --block-bg-secondary: #3C2C2Ccc;
+  --block-hover-bg: #362828ee;
+  --glass-bg: #3D3636;
+  --padding: 5px;
+  --text-secondary: #867070;
+  --link-color: #F03E3E;
+  --accent-like: #ff0e0e;
+  --accent-color: #ff050e;
+  --accent-primary: #ff050e;
+  --accent-primary-alpha: #F03E3E;
+  --accent-secondary: #F89B56;
+  --accent-hover: #f2cdcd;
+  --accent-repost: #97F856;
+  --radius-sm: 2px;
+  --radius-md: 4px;
+  --spacing-xs: 2px;
+  --spacing-sm: 4px;
+  --spacing-md: 8px;
+  --spacing-lg: 16px;
+  --spacing-2xl: 32px;
+  --sidebar-width: 180px;
+  --sidebar-gap: 10px;
+  --poll-selected-progress-color: #f5c2e7;
+  --poll-progress-color: #85827e1a;
+}
+strong, b, h1, h2, h3, h4, h5 {
+  font-family: Inter;
+}
+html {
+    overflow: scroll;
+    display: inline-block;
+    position: relative;
+}
+html:before {
+    content:"";
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    background:
+      linear-gradient(45deg, #000000aa, #331a1aaa),
+      url('https://cdn.xn--d1ah4a.com/images/686753e5-d5d4-4334-8b12-3ad0b3739245.jpg');
+    background-size: 100vw 100vh;
+}
