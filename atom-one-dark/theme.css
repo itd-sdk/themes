@@ -1,5 +1,5 @@
 * {
-  font-family: Jost;
+  font-family: Montserrat;
   --text-primary: #ABB2BF;
   --bg-primary: #282C34;
   --bg-secondary: #121417;
@@ -29,31 +29,5 @@
   --sidebar-gap: 10px;
   --poll-selected-progress-color: #61AFEF;
   --poll-progress-color: #61AFEFaa;
-  /*--border-color: transparent;*/
 }
 
-.JxkE {
-  color: #000;
-}
-.K4Xg {
-  display: none;
-}
-.x6JP {
-  background: none;
-}
-.Lmwj, .eIIc, .WUfa {
-  background: var(--bg-primary);
-}
-.nu2g.xpaR {
-  background: #84bbf6;
-}
-
-strong, b, .gf8Y {
-  font-family: Inter;
-}
-.vM0x.sYBU {
-  background: var(--block-bg-secondary);
-}
-.vM0x:hover {
-  background: var(--block-hover-bg);
-}
