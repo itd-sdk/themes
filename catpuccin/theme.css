@@ -1,5 +1,5 @@
 * {
-  font-family: Jost;
+  font-family: Roboto;
   --text-primary: #cdd6f4;
   --bg-primary: #1e1e2e;
   --bg-secondary: #313244;
@@ -28,7 +28,4 @@
   --sidebar-gap: 10px;
   --poll-selected-progress-color: #f5c2e7;
   --poll-progress-color: #85827e1a;
-}
-strong, b, h1, h2, h3, h4, h5 {
-  font-family: Inter;
 }
