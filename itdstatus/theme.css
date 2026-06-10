@@ -29,34 +29,8 @@
   --sidebar-gap: 10px;
   --poll-selected-progress-color: #2a8b6a;
   --poll-progress-color: #6fb29caa;
-  /*--border-color: transparent;*/
 }
 
-.JxkE {
-  color: #000;
-}
-.K4Xg {
-  display: none;
-}
-.x6JP {
-  background: none;
-}
-.Lmwj, .eIIc, .WUfa {
-  background: var(--bg-primary);
-}
-.nu2g.xpaR {
-  background: #84bbf6;
-}
-
-strong, b, .gf8Y, h1, h2 {
-  font-family: Inter;
-}
-.vM0x.sYBU {
-  background: var(--block-bg-secondary);
-}
-.vM0x:hover {
-  background: var(--block-hover-bg);
-}
 html {
     overflow: scroll;
     display: inline-block;
