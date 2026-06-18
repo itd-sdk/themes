@@ -8,6 +8,23 @@
 3. В окно вставляете код из theme.css (файл находится внутри папки)
 4. Перезагружаете страницу (некоторые расширения не загружают изменения сразу)
 
+## Содержимое
+### Темы
+ - [Atom One Dark](atom-one-dark)
+ - [Catpuccin Latte Dark](catpuccin)
+ - [Console](console)
+ - [Ember Dark](embder-dark)
+
+### Рофловые темы
+ - [Granat](granat) для [@granatovi_sok](https://итд.com/@granatovi_sok)
+ - [itdstatus](itdstatus) для [@itdstatus](https://итд.com/@itdStatus)
+ - [vitaliy](vialiy) для [@vitgesss](https://итд.com/@vitges)
+ - [nowkie](nowkie) для [@nowkie](https://итд.com/@nowkie)
+
+### Патчи
+ - [Увеличиватель ленты](extend-content)
+ - [Баннер на задний фон профиля](bgbanner)
+
 ## Roadmap
 В будущем планирую сделать отдельное расширение с каталогом тем прямо в ИТД, и возможно даже интеграцию с ИТД+.
 
