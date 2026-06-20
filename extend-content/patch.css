@@ -12,8 +12,8 @@
   margin-right: auto;
   width: 75%;
 }
-.xjQA span:last-child,
-.O4lb span:last-child,
+.xjQA > span:last-child,
+.O4lb > span:last-child,
 .j7vL span {
   display: none;
 }
