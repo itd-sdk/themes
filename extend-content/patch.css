@@ -1,5 +1,6 @@
 * {
-  --content-max-width: 1500px;
+  --content-max-width: 1200px;
+  --sidebar-width: 180px;
 }
 
 .yckj {
@@ -10,4 +11,33 @@
   margin-left: auto;
   margin-right: auto;
   width: 75%;
+}
+.xjQA span:last-child,
+.O4lb span:last-child,
+.j7vL span {
+  display: none;
+}
+.lVAS {
+  width: 56px;
+}
+.jR4T {
+  display: none;
+}
+.lVAS .mjPV {
+  padding: 0;
+  width: 36px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.NBSW.Hjaj.K9kK.FRvQ {
+  display: none;
+}
+.NBSW.gdH5.K9kK::before {
+  content: 'Бурмалда';
+  width: 110px;
+  background: white;
+  position: absolute;
+  top: 165px;
+  right: 43px;
+  z-index: 3;
 }
