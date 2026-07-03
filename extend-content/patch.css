@@ -3,25 +3,21 @@
   --sidebar-width: 180px;
 }
 
-.yckj {
-  margin-left: 15px;
-}
-
-.Kb7T {
+div#root > div > div > div > div > div > div:has(img[alt="Banner"]) {
   margin-left: auto;
   margin-right: auto;
   width: 75%;
 }
-.xjQA > span:last-child,
-.O4lb > span:last-child,
-.j7vL span {
+div#root > div > div > aside > div > nav > a > span:last-child, div#root > div > div > aside > div:last-child > button > span {
   display: none;
 }
-.lVAS {
+div#root > div > div > aside > div > nav > a, div#root > div > div > aside > div:last-child > button {
   width: 56px;
 }
-.jR4T {
-  display: none;
+div#root > div > div > aside > div > div {
+  flex-direction: column;
+  padding: 0 8px;
+  width: min-content;
 }
 .lVAS .mjPV {
   padding: 0;
@@ -29,15 +25,6 @@
   margin-left: auto;
   margin-right: auto;
 }
-.NBSW.Hjaj.K9kK.FRvQ {
-  display: none;
-}
-.NBSW.gdH5.K9kK::before {
-  content: 'Бурмалда';
-  width: 110px;
-  background: white;
-  position: absolute;
-  top: 165px;
-  right: 43px;
-  z-index: 3;
+div#root div > div > aside:first-child {
+  left: calc(100vw / 2 - 680px);
 }
