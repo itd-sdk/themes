@@ -1,4 +1,4 @@
-.Kb7T {
+div#root > div > div > div > div > div > div:has(img[alt="Banner"]) {
   margin-left: auto;
   margin-right: auto;
   width: 100%;
@@ -8,12 +8,6 @@
   position: absolute;
   z-index: -1;
 }
-.EQQO {
-  margin-top: 50px;
-}
-.TqjP {
-  margin-top: 50px;
-}
-.snjH {
+div#root > div > div > div > div > div > div:nth-child(2):has(div > div > span), div#root > div > div > div > div > div:first-child:has(div > img[alt="Banner"]), div#root > div > div > div > div > div:nth-child(2):has(div > button) {
   margin-top: 50px;
 }
