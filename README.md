@@ -8,6 +8,10 @@
 3. В окно вставляете код из `theme.css` (у тем) или `patch.css` (у патчей) (файл находится внутри папки)
 4. Перезагружаете страницу (некоторые расширения не загружают изменения сразу)
 
+Если у вас слетел шрифт (стоит дефолтный) после применения темы, скачайте и усатновите нужный шрифт на [fonts.google.com](https://fonts.google.com). Название шрифта можно найти в файлике темы (`font-family`).
+> <img width="600" height="443" alt="изображение" src="https://github.com/user-attachments/assets/57c3f145-4698-4500-aa30-7bd9d161da3d" /><br>
+> Обязательно нажмите кнопку "Установить" и перезапустите браузер.
+
 ## Содержимое
 ### Темы
  - [Atom One Dark](atom-one-dark)
@@ -20,6 +24,7 @@
  - [itdstatus](itdstatus) для [@itdstatus](https://итд.com/@itdStatus)
  - [vitaliy](vialiy) для [@vitgesss](https://итд.com/@vitges)
  - [nowkie](nowkie) для [@nowkie](https://итд.com/@nowkie)
+ - [golub](golub)
 
 ### Патчи
  - [Увеличить лентy](extend-content)
