@@ -1,0 +1,26 @@
+html > body:has(div#root > div:first-child > div:first-child > div:first-child > div:first-child > div:first-child > article:first-child > div:first-child > a:first-child > div:first-child > span:first-child) > div#root > div:first-child > div:last-child > div:first-child {
+  background: #000;
+  z-index: 2;
+  padding: 48px;
+  border-radius: 32px;
+  width: min(500px,98vw);
+}
+
+html > body:has(div#root > div:first-child > div:first-child > div:first-child > div:first-child > div:first-child > article:first-child > div:first-child > a:first-child > div:first-child > span:first-child) > div#root > div:first-child > div:last-child {
+  width: 100vw;
+  height: 100vh;
+}
+
+html > body:has(div#root > div:first-child > div:first-child > div:first-child > div:first-child > div:first-child > article:first-child > div:first-child > a:first-child > div:first-child > span:first-child) > div#root > div:first-child > div:first-child {
+  opacity: 0.7;
+  transform: rotate(20deg);
+  left: 200px;
+  top: -276px;
+  width: 70%;
+  height: 160vh;
+  position: absolute;
+}
+
+body:has(div#root > div:first-child > div:first-child > div:first-child > div:first-child > div:first-child > article:first-child > div:first-child > a:first-child > div:first-child > span:first-child) {
+  overflow: hidden;
+}
