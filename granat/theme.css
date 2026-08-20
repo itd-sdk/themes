@@ -1,3 +1,9 @@
+[data-icon="liked"] svg,
+[data-icon="liked"] svg path,
+[data-icon="comment"] svg {
+  fill: #000 !important;
+  stroke: #000 !important;
+}
 * {
   font-family: Jost;
   --text-primary: #f6baba;
