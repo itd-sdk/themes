@@ -17,7 +17,7 @@
  - [Atom One Dark](atom-one-dark)
  - [Catpuccin Latte Dark](catpuccin)
  - [Console](console)
- - [Ember Dark](embder-dark)
+ - [Ember Dark](ember-dark)
 
 ### Рофловые темы
  - [Granat](granat) для [@granatovi_sok](https://итд.com/@granatovi_sok)
