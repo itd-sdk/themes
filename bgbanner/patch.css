@@ -9,6 +9,6 @@ div#root > div > div > div > div > div > div:has(img[alt="Banner"]) {
   position: absolute;
   z-index: -1;
 }
-div#root > div:first-child > div:first-child > div:last-child > div:first-child > div:first-child > div:nth-child(2):has(div > div > span), div#root > div > div > div > div > div:first-child:has(div > img[alt="Banner"]), div#root > div > div > div > div > div:nth-child(2):has(div > button) {
+div#root > div:first-child > div:first-child > div:last-child > div:first-child > div:first-child > div:nth-child(2):has(div > div > span), div#root > div > div > div > div > div:first-child:has(div > img[alt="Banner"]), div#root > div:first-child > div:first-child > div:last-child > div:first-child > div:nth-child(2):has(div:first-child > button:nth-child(2)) {
   margin-top: 50px;
 }
