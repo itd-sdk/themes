@@ -1,0 +1,14 @@
+span[data-icon="liked"] svg path {
+  fill: var(--accent-like) !important;
+  stroke: var(--accent-like) !important;
+}
+span[data-icon="liked"] + span {
+  color: var(--accent-like);
+}
+
+div:first-child > div:nth-child(2) > div:first-child > span[data-icon="liked"] svg path,
+div > div > span[data-icon="comment"] svg {
+  fill: #000 !important;
+  stroke: #000 !important;
+}
+
